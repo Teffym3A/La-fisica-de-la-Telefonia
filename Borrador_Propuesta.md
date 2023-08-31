@@ -35,15 +35,16 @@ pregunta de investigación principal:
 **General:** ¿cuál es la pregunta de investigación a resolver?  
 **Específicos:** variables a considerar deben estar incluidas aquí  
 
-**PARÁMETROS:**  
-a) Cuerda:  
+**PARÁMETROS:**    
+**a)** Cuerda:  
 	Longitud  
 	Material: Cordel, Cable, Goma Nylon (cuerda de caña de pescar , \ref{1} dice que es bacano)  
 	Grosor  
 	Tensión  
 	Temperatura alrededor de la cuerda  
-	Medio alrededor de la cuerda  
-b) Vaso:  
+	Medio alrededor de la cuerda   
+ 
+**b)** Vaso:  
 	Material  
 	Aluminio  
 	cartón  
@@ -52,7 +53,7 @@ b) Vaso:
 	Forma (para cada forma 1  material)  
 	Tamaño: Grande, pequeño, Rigidez, Diametro  
 
-**Preguntas Adicionales:**
+**Preguntas Adicionales:**  
   ¿Qué pasa si se hace en otro medio? bajo el agua o en el espacio  
   ¿Cómo se transmite mejor el sonido: con la cuerda tensa o floja? ¿por qué? modelo matemático y pruebas experimentales  
   ¿Qué materiales mejoran la calidad del sonido?  
