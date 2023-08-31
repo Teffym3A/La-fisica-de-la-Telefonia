@@ -1,4 +1,4 @@
-**La Física del Telefonito**
+#La Física del Telefonito#
 
 Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Marian Lamar - Becerra Rodriguez, Miguel Fernando
 
