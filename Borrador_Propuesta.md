@@ -32,25 +32,25 @@ pregunta de investigación principal:
 - justificación de la investigación según lo que hay o falta para una contribución o posibles aplicaciones
 
 ### Objetivos:
-**General:** ¿cuál es la pregunta de investigación a resolver?
-**Específicos:** variables a considerar deben estar incluidas aquí
+**General:** ¿cuál es la pregunta de investigación a resolver?  
+**Específicos:** variables a considerar deben estar incluidas aquí  
 
-**PARÁMETROS:**
-a) Cuerda:
-	Longitud
-	Material: Cordel, Cable, Goma Nylon (cuerda de caña de pescar , \ref{1} dice que es bacano)
-	Grosor
-	Tensión
-	Temperatura alrededor de la cuerda
-	Medio alrededor de la cuerda
-b) Vaso:
-	Material
-	Aluminio
-	cartón
-	papel
-	plástico
-	Forma (para cada forma 1  material)
-	Tamaño: Grande, pequeño, Rigidez, Diametro
+**PARÁMETROS:**  
+a) Cuerda:  
+	Longitud  
+	Material: Cordel, Cable, Goma Nylon (cuerda de caña de pescar , \ref{1} dice que es bacano)  
+	Grosor  
+	Tensión  
+	Temperatura alrededor de la cuerda  
+	Medio alrededor de la cuerda  
+b) Vaso:  
+	Material  
+	Aluminio  
+	cartón  
+	papel  
+	plástico  
+	Forma (para cada forma 1  material)  
+	Tamaño: Grande, pequeño, Rigidez, Diametro  
 
 **Preguntas Adicionales:**
   ¿Qué pasa si se hace en otro medio? bajo el agua o en el espacio  
