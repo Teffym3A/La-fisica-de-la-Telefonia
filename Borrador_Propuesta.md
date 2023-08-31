@@ -2,9 +2,9 @@
 
 Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Marian Lamar - Becerra Rodriguez, Miguel Fernando
 
-*Resumen:*
+**Resumen:**
 
-*Introducción:*
+**Introducción:**
 - contextualizar el problema
 - importancia del proyecto
 - en busqueda o con una agencia que soporte la investigación(? los proyectos abren las puertas a interesados. Nota: sirve como una herramienta  clínica  para  el  diagnóstico  etiológico  de  los  trastornos  de  la  voz
@@ -15,51 +15,40 @@ Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Maria
   Tefa: ha trabajado con calidad de aparatos de sonido
   Miguel: tiene cursos en física de la acústica
 
-*Estado del Arte:*
+**Estado del Arte:**
 - antecedentes qué se ha hecho
 - qué problemas tiene el reto
 - qué se ha hecho para mejorarlos en la historia
 - justificación de la investigación según lo que hay o falta para una contribución o posibles aplicaciones
 
-*Planteamiento del problema de investigación:*
+**Planteamiento del problema de investigación:**
 pregunta de investigación principal:
 ¿Qué determina la distancia y la calidad de comunicación de un teléfono de este tipo?
 ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda, de su tensión y diámetro?
 
 
-*Objetivos:*
-General:
-¿cuál es la pregunta de investigación a resolver?
-Específicos: variables a considerar deben estar incluidas aquí
+**Objetivos:**
+*General:* ¿cuál es la pregunta de investigación a resolver?
+*Específicos:* variables a considerar deben estar incluidas aquí
 
 PARÁMETROS:
 a) Cuerda:
-Longitud
-Material
-Cordel
-Cable
-Goma
-Nylon (cuerda de caña de pescar , \ref{1} dice que es bacano)
-Grosor
-Tensión
-Temperatura alrededor de la cuerda
-Medio alrededor de la cuerda
+	Longitud
+	Material: Cordel, Cable, Goma Nylon (cuerda de caña de pescar , \ref{1} dice que es bacano)
+	Grosor
+	Tensión
+	Temperatura alrededor de la cuerda
+	Medio alrededor de la cuerda
+b) Vaso:
+	Material
+	Aluminio
+	cartón
+	papel
+	plástico
+	Forma (para cada forma 1  material)
+	Tamaño: Grande, pequeño, Rigidez 
 
-
-
-e) Vaso:
-Material
-Aluminio
-cartón
-papel
-plástico
-Forma (para cada forma 1  material)
-Tamaño
-Grande
-Pequeño
-Rigidez 
-
-  Preguntas Adicionales:
+*Preguntas Adicionales:*
   ¿Qué pasa si se hace en otro medio? bajo el agua o en el espacio
   ¿Cómo se transmite mejor el sonido: con la cuerda tensa o floja? ¿por qué? modelo matemático y pruebas experimentales
   ¿Qué materiales mejoran la calidad del sonido?
@@ -72,11 +61,11 @@ Rigidez
   ¿como se desgrana la pregunta de invesgación en subpreguntas?
 
 
-*Metodología:*
+**Metodología:**
 
 Tras la sustentación y aprobación de la propuesta el pasado 18 de septiembre, fecha con la cual se da inicio formal a la ejecución del proyecto, se plantean las siguientes actividades a desarrollar según el siguiente calendario de treabajo:
 
-Etapa 1. Determinar todos los parámetros que influyen en la calidad de sonido transmitido en el sistema.
+**Etapa 1.** Determinar todos los parámetros que influyen en la calidad de sonido transmitido en el sistema.
 
   Actividad 1.1. Revisión bibliográfica de transmisión de ondas en medios con el fin de destacar las variables de estudio que afectan la transmisión del sonido. Identificar parámetros para ¿Qué determina la distancia y la calidad de comunicación de un teléfono de este tipo? y ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda, de su tensión y diámetro?
     Responsables: Todos
@@ -87,12 +76,12 @@ Etapa 1. Determinar todos los parámetros que influyen en la calidad de sonido t
   Actividad 1.3. Selección de frecuencias accesibles juntos con los dispositivos que las generen.
     Responsables: Teffa y Lamar
 
-Etapa 2. Realización del modelo matemático de la transmisión de frecuencias, para la adquisición del sonido en los extremos del sistema.
+**Etapa 2.** Realización del modelo matemático de la transmisión de frecuencias, para la adquisición del sonido en los extremos del sistema.
 
   Actividad 2.1. Simulación de la propagación de la onda sonora en los diferentes medios propuestos.
 	  Responsables: Pendiente
 
-Etapa 3. Implementación y evaluación de los parámetros seleccionados en pruebas para las frecuencias accesibles.
+**Etapa 3.** Implementación y evaluación de los parámetros seleccionados en pruebas para las frecuencias accesibles.
 
   Actividad 3.1. Ensamble y adquisición de medidas de audio a través del sistema para la construcción de la base de datos.
 	  Responsables: Pendiente
@@ -100,23 +89,12 @@ Etapa 3. Implementación y evaluación de los parámetros seleccionados en prueb
 Actividad 3.2. Evaluación del desempeño de los sistemas comparados con el audio sin 
     Responsables: Pendiente
 
-Listado de posibles materiales
-Entrega de repositorio
-Etapa 2.
-Informe de avance
-Actualización del git con informe de avance
-Etapa 3. 
-Redacción y sustentacion informe final
-Documento (enlace a overleaf) con el informe final
-Poster presentando el informe final
-Actualización del git con informe de avance y el poster
+**Cronograma:** solo es traspasar lo anterior pero teniendo en cuento el tiempo de duración
 
-*Cronograma:* solo es traspasar lo anterior pero teniendo en cuento el tiempo de duración
-
-*Presupuesto/requerimientos:*
+**Presupuesto/requerimientos:**
 lo ideal es una tabla que incluya todos los elementos físicos y/o de tipo, tiempo como solicitar consultas con un profesional (el profe). También va lo de viajes :v al laboratorio.
                                                              
-*Referencias de consulta:*
+**Referencias de consulta:**
 
 [1] Video del profe: https://www.youtube.com/watch?v=iKKX9HAAtxQ&feature=youtu.be
 [2] Sagers, J. D., McNeese, A. R., & Wilson, P. S. (2010, April). The tin-can telephone: An example of sound propagation and communication for Project Listen Up. In Proceedings of Meetings on Acoustics (Vol. 9, No. 1). AIP Publishing.https://doi.org/10.1121/1.3551678
