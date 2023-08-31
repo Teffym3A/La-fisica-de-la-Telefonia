@@ -2,9 +2,9 @@
 
 Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Marian Lamar - Becerra Rodriguez, Miguel Fernando
 
-**Resumen:**
+### Resumen:
 
-**Introducción:**
+###  Introducción:
 - contextualizar el problema
 - importancia del proyecto
 - en busqueda o con una agencia que soporte la investigación(? los proyectos abren las puertas a interesados. Nota: sirve como una herramienta  clínica  para  el  diagnóstico  etiológico  de  los  trastornos  de  la  voz
@@ -15,7 +15,7 @@ Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Maria
   Tefa: ha trabajado con calidad de aparatos de sonido
   Miguel: tiene cursos en física de la acústica
 
-**Estado del Arte:**
+### Estado del Arte:
 - antecedentes qué se ha hecho
 - qué problemas tiene el reto
 - qué se ha hecho para mejorarlos en la historia
