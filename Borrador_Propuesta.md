@@ -4,7 +4,7 @@ Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Maria
 
 
 
-###  Introducción: (seguin el profe no hay introdución)
+###  Introducción: (seguin el profe no hay introdución) (Raul)
 - contextualizar el problema
 - importancia del proyecto
 - en busqueda o con una agencia que soporte la investigación(? los proyectos abren las puertas a interesados. Nota: sirve como una herramienta  clínica  para  el  diagnóstico  etiológico  de  los  trastornos  de  la  voz
@@ -22,16 +22,23 @@ pregunta de investigación principal:
 ¿Qué determina la distancia y la calidad de comunicación de un teléfono de este tipo?
 ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda, de su tensión y diámetro?
 
-### Justificación del Problema
-#### Marco Teorico
+### Justificación del Problema 
 
-#### Estado del Arte
+#### Marco Teorico (Raul)  
+
+#### Estado del Arte (Raul)  
 - antecedentes qué se ha hecho
 - qué problemas tiene el reto
 - qué se ha hecho para mejorarlos en la historia
 - justificación de la investigación según lo que hay o falta para una contribución o posibles aplicaciones
 
-### Objetivos:
+### Objetivos: (Sthe)  
+
+El objetivo a largo plazo de este reto es describir el fenomeno físico del telefonito e identificar las variables claves que afectan la calidad de comunicacion de este. Para esto se buscara determinar los parametros relacionados con los materiales de los vasos y las cuerdas que afecten la comunicacion variando la distancia
+
+ ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda de su tensión y diámetro? También Brue Yeany nos muestra algunos ejemplos que debe considerar
+
+
 **General:** ¿cuál es la pregunta de investigación a resolver?  
 **Específicos:** variables a considerar deben estar incluidas aquí  
 
@@ -66,7 +73,7 @@ pregunta de investigación principal:
   ¿como se desgrana la pregunta de invesgación en subpreguntas?  
 
 
-### Metodología:
+### Metodología: (Lamar)  
 
 Tras la sustentación y aprobación de la propuesta el pasado 18 de septiembre, fecha con la cual se da inicio formal a la ejecución del proyecto, se plantean las siguientes actividades a desarrollar según el siguiente calendario de treabajo:  
 
@@ -94,7 +101,8 @@ Tras la sustentación y aprobación de la propuesta el pasado 18 de septiembre, 
 Actividad 3.2. Evaluación del desempeño de los sistemas comparados con el audio sin 
     Responsables: Pendiente
 
-**Cronograma:** solo es traspasar lo anterior pero teniendo en cuento el tiempo de duración y esto se tiene que hacer en **GANTT**
+**Cronograma:** (Sthef)  
+solo es traspasar lo anterior pero teniendo en cuento el tiempo de duración y esto se tiene que hacer en **GANTT**
 
 **Presupuesto/requerimientos:**
 lo ideal es una tabla que incluya todos los elementos físicos y/o de tipo, tiempo como solicitar consultas con un profesional (el profe). También va lo de viajes :v al laboratorio.
