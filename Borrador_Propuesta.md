@@ -17,12 +17,12 @@ Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Maria
 
 
 
-### Planteamiento del problema de investigación:
+### Planteamiento del problema de investigación: (Miguel)
 pregunta de investigación principal:
 ¿Qué determina la distancia y la calidad de comunicación de un teléfono de este tipo?
 ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda, de su tensión y diámetro?
 
-### Justificación del Problema 
+### Justificación del Problema (Miguel)
 
 #### Marco Teorico (Raul)  
 
@@ -106,6 +106,8 @@ solo es traspasar lo anterior pero teniendo en cuento el tiempo de duración y e
 
 **Presupuesto/requerimientos:**
 lo ideal es una tabla que incluya todos los elementos físicos y/o de tipo, tiempo como solicitar consultas con un profesional (el profe). También va lo de viajes :v al laboratorio.
+
+¿Que necesitamos? cuando miremos las frecuencias usuales de habla del ser humano, necesitaremos una instrumento sensible para detectarlas, y de esa frecuencia, cuales son las de mejor claridad. 
                                                              
 **Referencias de consulta:**
 
