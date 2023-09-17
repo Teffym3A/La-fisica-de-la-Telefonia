@@ -23,6 +23,8 @@ pregunta de investigación principal:
 ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda, de su tensión y diámetro?
 
 ### Justificación del Problema (Miguel)
+La telefonía ha sido un pilar fundamental en la comunicación humana a lo largo de la historia. Desde las primeras conversaciones mediante telegrafos hasta los modernos teléfonos inteligentes, el deseo de superar las distancias y establecer conexiones ha impulsado avances tecnológicos Importantes.  Sin embargo, a pesar de la complejidad de las tecnologías de comunicación contemporáneas, es esencial  comprender los principios fundamentales en los que se basa la comunicación, especialmente aquellos que se manifiestan en formas más simples como el caso del teléfono de vasos y cuerda.
+
 
 #### Marco Teorico (Raul)  
 
