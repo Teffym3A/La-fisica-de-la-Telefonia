@@ -25,6 +25,11 @@ pregunta de investigación principal:
 ### Justificación del Problema (Miguel)
 La telefonía ha sido un pilar fundamental en la comunicación humana a lo largo de la historia. Desde las primeras conversaciones mediante telegrafos hasta los modernos teléfonos inteligentes, el deseo de superar las distancias y establecer conexiones ha impulsado avances tecnológicos Importantes.  Sin embargo, a pesar de la complejidad de las tecnologías de comunicación contemporáneas, es esencial  comprender los principios fundamentales en los que se basa la comunicación, especialmente aquellos que se manifiestan en formas más simples como el caso del teléfono de vasos y cuerda.
 
+De esta manera se tiene que la justificación al desarrollo del problema "La Física de la Telefonía" es que se busca desarrollar tanto el razonamiento científico como la habilidad para solucionar problemas, una habilidad necesaria para cualquier estudiante de Física. Esto se busca lograr al plantearse preguntas como qué determina la distancia máxima o la calidad del sonido en un teléfono de vasos y cuerda, y de esta manera desafiar a pensar de manera analítica y a aplicar principios físicos para contestar las preguntas planteadas y poder darle una solución al problema. Además, los principios físicos detras de los teléfonos de vasos y cuerda pueden servir para poder explicar y analizar dispositivos y sistemas de comunicación aún más avanzados y eficientes, por lo que el estudio de este sistema básico y cotidiano es fundamental.
+
+En resumen, el desarrollo de este problema busca no solo el desarrollo del razonamiento cientifico y el desarrollo de las habilidades y capacidades para poder realizar experimentos y observaciones para de esta manera enfrentarse al problema y poder obtener resultado que permitan dar una solución y conclusión al problema; sino que también tiene como objetivo incentivar la curiosidad para poder entender otros tipos de sistemas que permiten una mejor comunicación y poder buscar nuevas aplicaciones tecnológicas.
+
+
 
 #### Marco Teorico (Raul)  
 
