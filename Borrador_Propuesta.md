@@ -18,9 +18,13 @@ Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Maria
 
 
 ### Planteamiento del problema de investigación: (Miguel)
-pregunta de investigación principal:
-¿Qué determina la distancia y la calidad de comunicación de un teléfono de este tipo?
-¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda, de su tensión y diámetro?
+En la infancia de muchas personas un juego que se usó cotidianamente era el de unir unos vasos mediante unas cuerdas para de esta manera crear un telefono con el que se podía hablar de manera clara hasta cierta distancia. Este proyecto tiene como objetivo principal estudiar los fenómenos físicos detrás de este juego de niños que influyen en la calidad de comunicación y en la distancia máxima a la que se puede llegar a comunicar, además de incentivar el desarrollo de las habilidades de creación de experimentos y en el razonamiento científico. De esta manera se tiene que las preguntas de investigación principal en el desarrollo de problema son:
+
+- ¿Qué factores determinan la distancia y la calidad de la comunicación en un teléfono de vasos y cuerda?
+- ¿Cómo se ve influenciada la frecuencia de transmisión del sonido en el extremo receptor de la cuerda por la tensión y el diámetro de la misma?
+
+Estas preguntas de investigación sirven como la base del proyecto y permitirán estudiar y analizar los principios físicos presentes y los parámetros que influyen en este tipo de comunicación. Además se espera que al comprender este fenómeno se pueda incentivar la curiosidad de comprender sistemas de comunicación más complejos y avanzados, así como la busqueda de nuevas aplicaciones tecnologicas.
+
 
 ### Justificación del Problema (Miguel)
 La telefonía ha sido un pilar fundamental en la comunicación humana a lo largo de la historia. Desde las primeras conversaciones mediante telegrafos hasta los modernos teléfonos inteligentes, el deseo de superar las distancias y establecer conexiones ha impulsado avances tecnológicos Importantes.  Sin embargo, a pesar de la complejidad de las tecnologías de comunicación contemporáneas, es esencial  comprender los principios fundamentales en los que se basa la comunicación, especialmente aquellos que se manifiestan en formas más simples como el caso del teléfono de vasos y cuerda.
