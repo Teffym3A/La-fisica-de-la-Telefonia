@@ -1,7 +1,7 @@
 # La Física del Telefonito
 
-Martinez Afanador, Jose Raúl \[ 2200797 \]  \\
-Pinto Basto, Sthefanía \[ 2200803 \]  \\
+Martinez Afanador, Jose Raúl \[ 2200797 \]  \
+Pinto Basto, Sthefanía \[ 2200803 \]  \
 Rivera Ordoñez, Marian Lamar \[ 2211702 \]  \\
 Becerra Rodriguez, Miguel Fernando \[ 2201888 \]  \\
 
