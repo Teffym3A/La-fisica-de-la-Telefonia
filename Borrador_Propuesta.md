@@ -37,7 +37,7 @@ El objetivo a largo plazo de este reto es describir el fenomeno físico del tele
 
 ### 6. Metodología:
 
-**Etapa 1. Determinar los parámetros que influyen en la calidad de sonido transmitido en el sistema.**
+* **Etapa 1. Determinar los parámetros que influyen en la calidad de sonido transmitido en el sistema.** *\\
 	**Actividad 1.1.** Revisión bibliográfica de transmisión de ondas en medios con el fin de destacar las variables de estudio que afectan la transmisión del sonido.
   Responsables:
 
