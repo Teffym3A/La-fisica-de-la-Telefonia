@@ -41,8 +41,10 @@ Para el desarrollo de la propuesta, se plantea una metodología ajustada a los o
 
 - *Etapa 1. Determinar los parámetros que influyen en la calidad de sonido transmitido en el sistema.*
 
-	Actividad 1.1. Revisión bibliográfica de transmisión de ondas en medios con el fin de destacar las variables de estudio que afectan la transmisión del sonido. 
-	Actividad 1.2. Identificación de los elementos (y sus parámetros) presentes en el sistema para su construcción evaluando las opciones de bajo costo que permiten garantizar una buena calidad de sonido. 
+	Actividad 1.1. Revisión bibliográfica de transmisión de ondas en medios con el fin de destacar las variables de estudio que afectan la transmisión del sonido.
+
+	Actividad 1.2. Identificación de los elementos (y sus parámetros) presentes en el sistema para su construcción evaluando las opciones de bajo costo que permiten garantizar una buena calidad de sonido.
+
 	Actividad 1.3. Selección de frecuencias accesibles juntos con los dispositivos que las generen.  
  
 - *Etapa 2. Acercamiento matemático al modelo del sistema para entender la transmisión del sonido, según las frecuencias de emisión y, su adquisición en los extremos del sistema.* 
@@ -52,6 +54,7 @@ Para el desarrollo de la propuesta, se plantea una metodología ajustada a los o
 - *Etapa 3. Implementación y evaluación de los parámetros seleccionados en pruebas para las frecuencias accesibles.* 
 
 	Actividad 3.1. Ensamble del sistema físico y adquisición de medidas de audio a través del sistema para la construcción de la base de datos.
+
 	Actividad 3.2. Evaluación del desempeño de los diferentes sistemas al ser comparados con el audio original.
 
 
