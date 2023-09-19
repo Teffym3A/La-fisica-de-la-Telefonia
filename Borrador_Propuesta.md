@@ -119,7 +119,16 @@ solo es traspasar lo anterior pero teniendo en cuento el tiempo de duración y e
 lo ideal es una tabla que incluya todos los elementos físicos y/o de tipo, tiempo como solicitar consultas con un profesional (el profe). También va lo de viajes :v al laboratorio.
 
 ¿Que necesitamos? cuando miremos las frecuencias usuales de habla del ser humano, necesitaremos una instrumento sensible para detectarlas, y de esa frecuencia, cuales son las de mejor claridad. 
-                                                             
+
+							     | Etapa 	|                                                                                          Entregable                                                                                         	|                 Tipo                	|
+|:-----:	|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------:	|
+|   1   	|                                                    Reporte de las condiciones y parámetros óptimos para generar un audio de alta calidad.                                                   	| Apropiación social del conocimiento 	|
+|   1   	|                                 Reporte con la identificación de herramientas útiles para la propagación de frecuencias en el sistema con detalles de estas.                                	| Apropiación social del conocimiento 	|
+|   2   	|                                           Simulación del sistema en una herramienta computacional de diseño y análisis de transmisión de señales.                                           	| Generación de conocimiento          	|
+|   2   	| Exposición divulgativa del proyecto para la Universidad Industrial de Santander como una intervención en la asignatura de retos científicos ofrecida por su programa de pregrado en física. 	| Generación de conocimiento          	|
+|   3   	|                                      Base de datos de las frecuencias obtenidas etiquetadas con sus respectivos elementos del sistema que las generan.                                      	| Generación de conocimiento          	|
+|   3   	|                                                                                     Artículo científico.                                                                                    	| Generación de conocimiento          	|
+
 **Referencias de consulta:**
 
 [1] Video del profe: https://www.youtube.com/watch?v=iKKX9HAAtxQ&feature=youtu.be
