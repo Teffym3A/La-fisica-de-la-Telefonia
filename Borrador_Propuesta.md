@@ -4,7 +4,7 @@ Martinez Afanador, Jose Raúl - Pinto Basto, Sthefanía - Rivera Ordoñez, Maria
 
 
 
-###  Introducción: (seguin el profe no hay introdución) (Raul)
+###  Introducción:
 - contextualizar el problema
 - importancia del proyecto
 - en busqueda o con una agencia que soporte la investigación(? los proyectos abren las puertas a interesados. Nota: sirve como una herramienta  clínica  para  el  diagnóstico  etiológico  de  los  trastornos  de  la  voz
