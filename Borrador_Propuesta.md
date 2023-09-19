@@ -35,7 +35,7 @@ El objetivo a largo plazo de este reto es describir el fenomeno físico del tele
 #### 5.2 Específicos
 
 
-### 6. Metodología:
+### 6. Metodología
 
 Para el desarrollo de la propuesta, se plantea una metodología ajustada a los objetivos específicos identificando en cada etapa las actividades en donde se verán responsables de su ejecución todos los investigadores desarrolladores de la propuesta. 
 
@@ -58,13 +58,14 @@ Para el desarrollo de la propuesta, se plantea una metodología ajustada a los o
 	Actividad 3.2. Evaluación del desempeño de los diferentes sistemas al ser comparados con el audio original.
 
 
-**Cronograma:** (Sthef)  
-solo es traspasar lo anterior pero teniendo en cuento el tiempo de duración y esto se tiene que hacer en **GANTT**
+### 7. Cronograma
 
-**Presupuesto/requerimientos:**
+### 8. Presupuesto
 lo ideal es una tabla que incluya todos los elementos físicos y/o de tipo, tiempo como solicitar consultas con un profesional (el profe). También va lo de viajes :v al laboratorio.
 
 ¿Que necesitamos? cuando miremos las frecuencias usuales de habla del ser humano, necesitaremos una instrumento sensible para detectarlas, y de esa frecuencia, cuales son las de mejor claridad. 
+
+### 9. Resultados esperados
 
 | Etapa 	|                     Entregable                                                                 	|                 Tipo                	|
 |:-----:	|:----------------------------------------------------------------------------------------------------:	|:-----------------------------------:	|
@@ -75,38 +76,7 @@ lo ideal es una tabla que incluya todos los elementos físicos y/o de tipo, tiem
 |   3   	|    Base de datos de las frecuencias obtenidas etiquetadas con sus respectivos elementos del sistema que las generan.   	| Generación de conocimiento          	|
 |   3   	|           Artículo científico.                                                                	| Generación de conocimiento          	|
 
-**Referencias de consulta:**
+### Referencias
 
 [1] Video del profe: https://www.youtube.com/watch?v=iKKX9HAAtxQ&feature=youtu.be
 [2] Sagers, J. D., McNeese, A. R., & Wilson, P. S. (2010, April). The tin-can telephone: An example of sound propagation and communication for Project Listen Up. In Proceedings of Meetings on Acoustics (Vol. 9, No. 1). AIP Publishing.https://doi.org/10.1121/1.3551678
-
-
-
-
-
-
-- La cuerda esté tensa entre las dos copas
-- la distancia es limitada
-- ¿cómo vibran las ondas dentro de la taza y a qué velocidad. Ej: 1000 veces por segundo o más
-
-
-
-SOBRE LA VOZ:
-Los  parámetros  que  seevalúan  en  el  estudio  estroboscópico  son  los  siguientes: 
-frecuencia  fundamental
-simetría  de  los  movimientos  de  cierre/apertura de las cuerdas vocales
-regularidado  periodicidad  de  las  vibraciones
-cierre  glótico
-amplitud  del  desplazamientohorizontal de las cuerdas vocales
-grado de ondulación de lamucosa vocal
-REF:VIDEOLARINGOESTROBOSCOPIA: UNA TÉCNICAPARA VISUALIZAR LAS CUERDAS VOCALES
-https://raco.cat/index.php/EFE/article/view/140081/216450
-
-TEMARIO:
-Ondas mecánicas
-ecuación de la onda en cuerdas
-energía de la vibración
-reflexión y transmisión de ondas
-cuerdas con extremos fijos
-vibraciones amortiguadas
-
