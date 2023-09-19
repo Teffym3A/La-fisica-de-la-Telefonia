@@ -9,7 +9,7 @@ Becerra Rodriguez, Miguel Fernando \[ 2201888 \]  \\
 ###  Introducción:
 
 
-### Planteamiento del problema de investigación: (Miguel)
+### Planteamiento del problema de investigación:
 En la infancia de muchas personas un juego que se usó cotidianamente era el de unir unos vasos mediante unas cuerdas para de esta manera crear un telefono con el que se podía hablar de manera clara hasta cierta distancia. Este proyecto tiene como objetivo principal estudiar los fenómenos físicos detrás de este juego de niños que influyen en la calidad de comunicación y en la distancia máxima a la que se puede llegar a comunicar, además de incentivar el desarrollo de las habilidades de creación de experimentos y en el razonamiento científico. De esta manera se tiene que las preguntas de investigación principal en el desarrollo de problema son:
 
 - ¿Qué factores determinan la distancia y la calidad de la comunicación en un teléfono de vasos y cuerda?
