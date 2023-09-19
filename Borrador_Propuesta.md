@@ -37,30 +37,28 @@ El objetivo a largo plazo de este reto es describir el fenomeno físico del tele
 
 ### 6. Metodología:
 
-Tras la sustentación y aprobación de la propuesta el pasado 18 de septiembre, fecha con la cual se da inicio formal a la ejecución del proyecto, se plantean las siguientes actividades a desarrollar según el siguiente calendario de treabajo:  
+**Etapa 1. Determinar los parámetros que influyen en la calidad de sonido transmitido en el sistema.**
 
-**Etapa 1.** Determinar todos los parámetros que influyen en la calidad de sonido transmitido en el sistema.  
+  **Actividad 1.1.** Revisión bibliográfica de transmisión de ondas en medios con el fin de destacar las variables de estudio que afectan la transmisión del sonido.
+  Responsables:
 
-  Actividad 1.1. Revisión bibliográfica de transmisión de ondas en medios con el fin de destacar las variables de estudio que afectan la transmisión del sonido. Identificar parámetros para ¿Qué determina la distancia y la calidad de comunicación de un teléfono de este tipo? y ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda, de su tensión y diámetro?  
-    Responsables: Todos
+  **Actividad 1.2.** Identificación de los elementos (y sus parámetros) presentes en el sistema para su construcción evaluando las opciones de bajo costo que permiten garantizar una buena calidad de sonido. 
+    Responsables:
 
-  Actividad 1.2. Identificación de los elementos presentes en el sistema para la construcción del sistema evaluando las opciones de bajo costo que permiten garantizar una buena calidad de sonido.  
-    Responsables: Todos  
-
-  Actividad 1.3. Selección de frecuencias accesibles juntos con los dispositivos que las generen.  
+  **Actividad 1.3.** Selección de frecuencias accesibles juntos con los dispositivos que las generen.  
     Responsables: Teffa y Lamar  
 
-**Etapa 2.** Realización del modelo matemático de la transmisión de frecuencias, para la adquisición del sonido en los extremos del sistema.
+**Etapa 2. Acercamiento matemático al modelo del sistema para entender la transmisión del sonido, según la frecuencias de emisión y, su adquisición en los extremos del sistema.**
 
-  Actividad 2.1. Simulación de la propagación de la onda sonora en los diferentes medios propuestos.
+  **Actividad 2.1.** Simulación de la propagación de la onda sonora en los diferentes medios propuestos.
+  Responsables: Pendiente
+
+**Etapa 3. Implementación y evaluación de los parámetros seleccionados en pruebas para las frecuencias accesibles.**
+
+  **Actividad 3.1.** Ensamble del sistema físico y adquisición de medidas de audio a través del sistema para la construcción de la base de datos.
 	  Responsables: Pendiente
 
-**Etapa 3.** Implementación y evaluación de los parámetros seleccionados en pruebas para las frecuencias accesibles.
-
-  Actividad 3.1. Ensamble y adquisición de medidas de audio a través del sistema para la construcción de la base de datos.
-	  Responsables: Pendiente
-
-Actividad 3.2. Evaluación del desempeño de los sistemas comparados con el audio sin 
+**Actividad 3.2.** Evaluación del desempeño de los diferentes sistemas al ser comparados con el audio original.
     Responsables: Pendiente
 
 **Cronograma:** (Sthef)  
