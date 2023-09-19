@@ -25,7 +25,7 @@ De esta manera se tiene que la justificación al desarrollo del problema "La Fí
 
 En resumen, el desarrollo de este problema busca no solo el desarrollo del razonamiento cientifico y el desarrollo de las habilidades y capacidades para poder realizar experimentos y observaciones para de esta manera enfrentarse al problema y poder obtener resultado que permitan dar una solución y conclusión al problema; sino que también tiene como objetivo incentivar la curiosidad para poder entender otros tipos de sistemas que permiten una mejor comunicación y poder buscar nuevas aplicaciones tecnológicas.
 
-#### 4. Estado del Arte
+### 4. Estado del Arte
 
 ### 5. Objetivos
 
