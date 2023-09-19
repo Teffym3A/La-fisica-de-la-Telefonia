@@ -6,18 +6,7 @@ Rivera Ordoñez, Marian Lamar \[ 2211702 \]  \\
 Becerra Rodriguez, Miguel Fernando \[ 2201888 \]  \\
 
 
-
 ###  Introducción:
-- contextualizar el problema
-- importancia del proyecto
-- en busqueda o con una agencia que soporte la investigación(? los proyectos abren las puertas a interesados. Nota: sirve como una herramienta  clínica  para  el  diagnóstico  etiológico  de  los  trastornos  de  la  voz
-- número de participantes y su justificación (calificación o experiencia para el cargo)
-  Ejemplos: podemos poner la experiencia de participación en el ipt :v
-  Raúl: ha estudiado las tensiones y resistencias de los materiales
-  Lamar: tiene experiencia en procesamiento de señales (sonoras)
-  Tefa: ha trabajado con calidad de aparatos de sonido
-  Miguel: tiene cursos en física de la acústica
-
 
 
 ### Planteamiento del problema de investigación: (Miguel)
