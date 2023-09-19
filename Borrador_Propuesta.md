@@ -6,10 +6,10 @@ Rivera Ordoñez, Marian Lamar \[ 2211702 \]  \\
 Becerra Rodriguez, Miguel Fernando \[ 2201888 \]  \\
 
 
-###  Introducción:
+###  1. Introducción:
 
 
-### Planteamiento del problema de investigación:
+### 2. Planteamiento del problema de investigación
 En la infancia de muchas personas un juego que se usó cotidianamente era el de unir unos vasos mediante unas cuerdas para de esta manera crear un telefono con el que se podía hablar de manera clara hasta cierta distancia. Este proyecto tiene como objetivo principal estudiar los fenómenos físicos detrás de este juego de niños que influyen en la calidad de comunicación y en la distancia máxima a la que se puede llegar a comunicar, además de incentivar el desarrollo de las habilidades de creación de experimentos y en el razonamiento científico. De esta manera se tiene que las preguntas de investigación principal en el desarrollo de problema son:
 
 - ¿Qué factores determinan la distancia y la calidad de la comunicación en un teléfono de vasos y cuerda?
@@ -18,65 +18,24 @@ En la infancia de muchas personas un juego que se usó cotidianamente era el de 
 Estas preguntas de investigación sirven como la base del proyecto y permitirán estudiar y analizar los principios físicos presentes y los parámetros que influyen en este tipo de comunicación. Además se espera que al comprender este fenómeno se pueda incentivar la curiosidad de comprender sistemas de comunicación más complejos y avanzados, así como la busqueda de nuevas aplicaciones tecnologicas.
 
 
-### Justificación del Problema (Miguel)
+### 3. Justificación
 La telefonía ha sido un pilar fundamental en la comunicación humana a lo largo de la historia. Desde las primeras conversaciones mediante telegrafos hasta los modernos teléfonos inteligentes, el deseo de superar las distancias y establecer conexiones ha impulsado avances tecnológicos Importantes.  Sin embargo, a pesar de la complejidad de las tecnologías de comunicación contemporáneas, es esencial  comprender los principios fundamentales en los que se basa la comunicación, especialmente aquellos que se manifiestan en formas más simples como el caso del teléfono de vasos y cuerda.
 
 De esta manera se tiene que la justificación al desarrollo del problema "La Física de la Telefonía" es que se busca desarrollar tanto el razonamiento científico como la habilidad para solucionar problemas, una habilidad necesaria para cualquier estudiante de Física. Esto se busca lograr al plantearse preguntas como qué determina la distancia máxima o la calidad del sonido en un teléfono de vasos y cuerda, y de esta manera desafiar a pensar de manera analítica y a aplicar principios físicos para contestar las preguntas planteadas y poder darle una solución al problema. Además, los principios físicos detras de los teléfonos de vasos y cuerda pueden servir para poder explicar y analizar dispositivos y sistemas de comunicación aún más avanzados y eficientes, por lo que el estudio de este sistema básico y cotidiano es fundamental.
 
 En resumen, el desarrollo de este problema busca no solo el desarrollo del razonamiento cientifico y el desarrollo de las habilidades y capacidades para poder realizar experimentos y observaciones para de esta manera enfrentarse al problema y poder obtener resultado que permitan dar una solución y conclusión al problema; sino que también tiene como objetivo incentivar la curiosidad para poder entender otros tipos de sistemas que permiten una mejor comunicación y poder buscar nuevas aplicaciones tecnológicas.
 
+#### 4. Estado del Arte
 
+### 5. Objetivos
 
-#### Marco Teorico (Raul)  
-
-#### Estado del Arte (Raul)  
-- antecedentes qué se ha hecho
-- qué problemas tiene el reto
-- qué se ha hecho para mejorarlos en la historia
-- justificación de la investigación según lo que hay o falta para una contribución o posibles aplicaciones
-
-### Objetivos: (Sthe)  
-
+#### 5.1 General
 El objetivo a largo plazo de este reto es describir el fenomeno físico del telefonito e identificar las variables claves que afectan la calidad de comunicacion de este. Para esto se buscara determinar los parametros relacionados con los materiales de los vasos y las cuerdas que afecten la comunicacion variando la distancia
 
- ¿Cómo depende la frecuencia de transmisión del sonido en el otro extremo de la cuerda de su tensión y diámetro? También Brue Yeany nos muestra algunos ejemplos que debe considerar
+#### 5.2 Específicos
 
 
-**General:** ¿cuál es la pregunta de investigación a resolver?  
-**Específicos:** variables a considerar deben estar incluidas aquí  
-
-**PARÁMETROS:**    
-**a)** Cuerda:  
-	Longitud  
-	Material: Cordel, Cable, Goma Nylon (cuerda de caña de pescar , \ref{1} dice que es bacano)  
-	Grosor  
-	Tensión  
-	Temperatura alrededor de la cuerda  
-	Medio alrededor de la cuerda   
- 
-**b)** Vaso:  
-	Material  
-	Aluminio  
-	cartón  
-	papel  
-	plástico  
-	Forma (para cada forma 1  material)  
-	Tamaño: Grande, pequeño, Rigidez, Diametro  
-
-**Preguntas Adicionales:**  
-  ¿Qué pasa si se hace en otro medio? bajo el agua o en el espacio  
-  ¿Cómo se transmite mejor el sonido: con la cuerda tensa o floja? ¿por qué? modelo matemático y pruebas experimentales  
-  ¿Qué materiales mejoran la calidad del sonido?  
-  ¿Cómo afecta el grosor de la cuerda a la transmisión del sonido?  
-  ¿Cómo influye la longitud de la cuerda en la calidad de la comunicación?  
-  ¿Es mejor usar vasos de plástico rígido o vasos de plástico blando?  
-  ¿Cómo influye la forma de los vasos? ¿Cuál es la forma óptima? el  estrechamiento tiende a actuar como un pequeño “altavoz”  
-  ¿Por qué los vasos pequeños transmiten mejor el sonido que los grandes?  
-  ¿Existe el mismo fenómeno de robo de información mediante ondas evanescentes?  
-  ¿como se desgrana la pregunta de invesgación en subpreguntas?  
-
-
-### Metodología: (Lamar)  
+### 6. Metodología:
 
 Tras la sustentación y aprobación de la propuesta el pasado 18 de septiembre, fecha con la cual se da inicio formal a la ejecución del proyecto, se plantean las siguientes actividades a desarrollar según el siguiente calendario de treabajo:  
 
