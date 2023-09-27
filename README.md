@@ -1,4 +1,4 @@
-# La-fisica-de-la-Telefonia
+# La Física de la Telefonia
 
 ### Descripción del problema:
 En la infancia de numerosas personas, un juego cotidiano era el de unir unos vasos mediante cuerdas para crear un teléfono con el que se podía hablar claramente y este alcanzaba una cierta distancia considerablemente larga. Esto representaba, aunque no muy práctica, una astuta y económica forma de comunicación por lo que esta investigación tiene como objetivo principal estudiar los fenómenos físicos detrás de este juego de niños que permite la comunicación ́on a distancia.  
