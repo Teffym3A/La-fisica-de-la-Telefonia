@@ -12,7 +12,7 @@ permite la comunicaci ́on a distancia.
 En el Github se puede encontrar
 
 ### Vinculos importantes 
- La propuesta de investigación del proyecto se desarollo en el formato de latex, se puede ingresar en el siguiente hiperlink (propuesta de investigación)[https://www.overleaf.com/project/64a86fc0d8e5550292133b39]
+ La propuesta de investigación del proyecto se desarollo en el formato de latex, se puede ingresar en el siguiente link [https://www.overleaf.com/project/64a86fc0d8e5550292133b39]
 
 ### Creditos:
 Este proyecto se desarrolla como parte del curso de "Retos Cientificos" a cargo del profesor Luis Alberto Nuñez de la universidad Industrial de Santander. El desarrollo del reto "La Física del Telefonito" esta a cargo de:
