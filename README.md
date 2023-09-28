@@ -16,7 +16,7 @@ Para la organización del proyecto se empleará GitHub, en este se puede encontr
 
 ### Vinculos importantes 
 La propuesta de investigación del proyecto se desarrolló en el formato de látex, se puede encontrar en el siguiente link [https://www.overleaf.com/read/xpqccgfzfrqc]  
- La presentación de la propuesta de investigación se puede encontrar en el siguiente link [https://www.canva.com/design/DAFvrHIcwcw/Lxd09tMhx_m1cOfUGh6-rA/edit?utm_content=DAFvrHIcwcw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]  
+ La presentación de la propuesta de investigación se puede encontrar en el siguiente link []  
 
 
 ### Creditos:
