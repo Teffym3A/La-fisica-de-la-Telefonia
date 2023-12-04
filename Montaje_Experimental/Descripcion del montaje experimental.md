@@ -18,8 +18,14 @@ sin embargo, evitando el análisis de un 3 tipo de materia, solo se sujetaron co
 
 Procedimiento para construir el Montaje:
 
+Para iniciar el proceso, se procede a crear un pequeño orificio en el centro del fondo de una lata. Este orificio puede ser perforado o taladrado y 
+debe poseer dimensiones suficientes para permitir el paso de una cuerda. Se introduce un extremo de la cuerda a través del orificio de la lata, y se anuda
+en el interior de la misma con el propósito de evitar que la cuerda sea retirada hacia atrás a través del orificio.  
 
+Para poner en funcionamiento el teléfono de lata, es necesario sujetar la lata en dos extremos y alejarlas mutuamente hasta que la cuerda se encuentre 
+en tensión. Es fundamental mantener la tensión en la cuerda durante la utilización del dispositivo telefónico, ya que su eficacia se ve comprometida   
+si la cuerda se halla laxa. Para mantener la cuerda del telefonito tensionada, sin la intervención humana se procede a realizar un montaje que también  
+nos permita calcular la tensión que se encuentra la cuerda.
+ 
 
-
-Procedimiento para construir el telefonito;
 
