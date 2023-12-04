@@ -1,12 +1,12 @@
-Entregable semana 3 y 4: lista de materiales
+# Entregable semana 3 y 4: lista de materiales
 - Dispositivo generados de frecuencias
 - Osciloscopio
 - Vasos de diferentes tamaño (de papel, lata y plástico)
 - Cuerdad de diferentes diámetros (de nylon, fique, cordón y pita)
 
-Entregables semana 5,6 y 7:
+# Entregables semana 5,6 y 7:
 
-Procedimiento para construir el telefonito:
+# Procedimiento para construir el telefonito:
 
 - 2 latas. (En nuestro caso en específico se emplearon vasos de papel y latas (metal), donde las latas deben tener un extremo abierto y un extremo cerrado)
 - 1 trozo de hilo. (En nuestro caso se decidió el uso del fique y el cordón, para el cordón se emplearon dos diámetros diferentes, buscando  
@@ -16,7 +16,7 @@ En la construcción usual de un telefonito se suelen usar "sujetadores" esto con
 sin embargo, evitando el análisis del contacto con un tercer tipo de materia, solo se sujetaron con un nudo en la base de la lata.
 
 
-Procedimiento para construir el Montaje:
+## Procedimiento para construir el Montaje:
 
 Para iniciar el proceso, se procede a crear un pequeño orificio en el centro del fondo de una lata. Este orificio puede ser perforado o taladrado y 
 debe poseer dimensiones suficientes para permitir el paso de una cuerda. Se introduce un extremo de la cuerda a través del orificio de la lata, y se anuda
