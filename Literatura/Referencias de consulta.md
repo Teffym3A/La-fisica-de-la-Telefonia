@@ -1,7 +1,7 @@
 Entregables semana 2: recopilación de las referencias claves relacionadas con el tema
 
 Artículos:
-Jason D. Sagers, Andrew R. McNeese, and Preston S. Wilson. The tin-can telephone: An example of sound propagation and communication for Project Listen Up. Proceedings of Meetings on Acoustics, 9(1):025002, 2010.
+- Jason D. Sagers, Andrew R. McNeese, and Preston S. Wilson. The tin-can telephone: An example of sound propagation and communication for Project Listen Up. Proceedings of Meetings on Acoustics, 9(1):025002, 2010.
 
 Libros:
 - A.P. French. Vibrations and Waves. CRC Press., 1st edition, 1971.
