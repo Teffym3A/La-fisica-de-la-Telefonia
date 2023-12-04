@@ -6,7 +6,7 @@
 
 # Entregables semana 5,6 y 7:
 
-# Procedimiento para construir el telefonito:
+## Procedimiento para construir el telefonito:
 
 - 2 latas. (En nuestro caso en específico se emplearon vasos de papel y latas (metal), donde las latas deben tener un extremo abierto y un extremo cerrado)
 - 1 trozo de hilo. (En nuestro caso se decidió el uso del fique y el cordón, para el cordón se emplearon dos diámetros diferentes, buscando  
@@ -28,6 +28,8 @@ si la cuerda se halla laxa. Para mantener la cuerda del telefonito tensionada, s
 nos permita calcular la tensión que se encuentra la cuerda.
 
 Para esto se utilizan dos dispositivos de soporte; el primero permanece estacionario junto a la lata, mientras que el segundo está posicionado sobre una base móvil. Esto se lleva a cabo con la finalidad de implementar un juego de poleas conectado al segundo soporte, al cual se añade un peso con el objetivo de generar tensión en la cuerda que conecta ambas latas. De esta manera, se logra tensionar la cuerda de manera precisa, y se es posible registrar la magnitud de esta tensión.
+
+Con la disposición de este arreglo experimental que se pocede a utilizar dos dispositivos móviles, se distingue la presencia de un generador de frecuencias en uno de ellos y la incorporación de una aplicación de osciloscopio en el segundo dispositivo. En este procedimiento, se atiende meticulosamente a la ubicación del micrófono y el altavoz de los dispositivos móviles. Posteriormente se lleva a cabo la toma de datos de frecuencia. 
 
 
  
