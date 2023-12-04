@@ -23,8 +23,7 @@ debe poseer dimensiones suficientes para permitir el paso de una cuerda. Se intr
 en el interior de la misma con el propósito de evitar que la cuerda sea retirada hacia atrás a través del orificio.  
 
 Para poner en funcionamiento el teléfono de lata, es necesario sujetar la lata en dos extremos y alejarlas mutuamente hasta que la cuerda se encuentre 
-en tensión. Es fundamental mantener la tensión en la cuerda durante la utilización del dispositivo telefónico, ya que su eficacia se ve comprometida   
-si la cuerda se halla laxa. Para mantener la cuerda del telefonito tensionada, sin la intervención humana se procede a realizar un montaje que también nos permita calcular la tensión que se encuentra la cuerda.
+en tensión. Es fundamental mantener la tensión en la cuerda durante la utilización del dispositivo telefónico, ya que su eficacia se ve comprometida si la cuerda se halla laxa. Para mantener la cuerda del telefonito tensionada, sin la intervención humana se procede a realizar un montaje que también nos permita calcular la tensión que se encuentra la cuerda.
 
 Para esto se utilizan dos dispositivos de soporte; el primero permanece estacionario junto a la lata, mientras que el segundo está posicionado sobre una base móvil. Esto se lleva a cabo con la finalidad de implementar un juego de poleas conectado al segundo soporte, al cual se añade un peso con el objetivo de generar tensión en la cuerda que conecta ambas latas. De esta manera, se logra tensionar la cuerda de manera precisa, y se es posible registrar la magnitud de esta tensión.
 
