@@ -13,7 +13,7 @@ Procedimiento para construir el telefonito:
 analizar el impacto del grosor en el resultado de las frecuencias.)
 
 En la construcción usual de un telefonito se suelen usar "sujetadores" esto con el propósito de evitar que la cuerda pase por los agujeros de las latas o vasos  
-sin embargo, evitando el análisis de un 3 tipo de materia, solo se sujetaron con un nudo en la base de la lata.
+sin embargo, evitando el análisis del contacto con un tercer tipo de materia, solo se sujetaron con un nudo en la base de la lata.
 
 
 Procedimiento para construir el Montaje:
@@ -26,6 +26,10 @@ Para poner en funcionamiento el teléfono de lata, es necesario sujetar la lata 
 en tensión. Es fundamental mantener la tensión en la cuerda durante la utilización del dispositivo telefónico, ya que su eficacia se ve comprometida   
 si la cuerda se halla laxa. Para mantener la cuerda del telefonito tensionada, sin la intervención humana se procede a realizar un montaje que también  
 nos permita calcular la tensión que se encuentra la cuerda.
+
+Para esto se utilizan dos dispositivos de soporte; el primero permanece estacionario junto a la lata, mientras que el segundo está posicionado sobre una base móvil. Esto se lleva a cabo con la finalidad de implementar un juego de poleas conectado al segundo soporte, al cual se añade un peso con el objetivo de generar tensión en la cuerda que conecta ambas latas. De esta manera, se logra tensionar la cuerda de manera precisa, y se es posible registrar la magnitud de esta tensión.
+
+
  
 
 
