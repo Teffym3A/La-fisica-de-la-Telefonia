@@ -12,3 +12,8 @@ Videos:
 
 Otros:
 - A.G. Bell. Improvement in telegraphy. U.S. Patent No. 174,465, 1876.
+
+Páginas web:
+-Wikipedia contributors. (2023, December 5). Bessel function. In Wikipedia, The Free Encyclopedia. Retrieved 14:18, December 7, 2023, from https://en.wikipedia.org/w/index.php?title=Bessel_function&oldid=1188439541
+-Wikipedia contributors. (2023, December 6). Vibrations of a circular membrane. In Wikipedia, The Free Encyclopedia. Retrieved 16:58, December 7, 2023, from https://en.wikipedia.org/w/index.php?title=Vibrations_of_a_circular_membrane&oldid=1188620289
+-
