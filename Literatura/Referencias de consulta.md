@@ -2,7 +2,7 @@ Entregables semana 2: recopilación de las referencias claves relacionadas con e
 
 Artículos:
 - Jason D. Sagers, Andrew R. McNeese, and Preston S. Wilson. The tin-can telephone: An example of sound propagation and communication for Project Listen Up. Proceedings of Meetings on Acoustics, 9(1):025002, 2010.
-
+- Chen, J. C. (2016). Elements of human voice. World Scientific.
 Libros:
 - A.P. French. Vibrations and Waves. CRC Press., 1st edition, 1971.
 - Lawrence E Kinsler, Austin R Frey, Alan B Coppens, and James V Sanders. Fundamentals of acoustics. John wiley & sons, 2000.
